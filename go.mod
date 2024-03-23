@@ -8,7 +8,7 @@ require (
 	github.com/hashicorp/logutils v1.0.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.17.0
-	github.com/xanzy/go-gitlab v0.94.0
+	github.com/xanzy/go-gitlab v0.101.0
 )
 
 require (
